@@ -1,0 +1,6 @@
+framework module Pods_ExOpenSheet {
+  umbrella header "Pods-ExOpenSheet-umbrella.h"
+
+  export *
+  module * { export * }
+}
